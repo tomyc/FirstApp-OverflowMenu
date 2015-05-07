@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstApp-OverflowMenu</string>
+    <string name="action_settings">Ustwienia</string>
+    <string name="hello_world">Cześć to ja :)</string>
+    <string name="blue_string">Niebieski</string>
+    <string name="green_string">Zielony</string>
+    <string name="red_string">Czerwony</string>
+    <string name="yellow_string">Żółty</string>
+</resources>

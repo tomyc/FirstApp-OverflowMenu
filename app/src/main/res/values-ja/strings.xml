@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstApp-OverflowMenu</string>
+    <string name="action_settings">設定</string>
+    <string name="blue_string">青色</string>
+    <string name="green_string">緑色</string>
+    <string name="red_string">赤色</string>
+    <string name="yellow_string">黄色</string>
+    <string name="hello_world">こんにちは世界</string>
+</resources>
